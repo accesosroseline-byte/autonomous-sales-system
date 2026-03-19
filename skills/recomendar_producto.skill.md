@@ -25,4 +25,4 @@ Sugiere productos al cliente según su intención y categoría detectada.
 
 ## Ejemplo
 
-"Te muestro estos aretes que están muy lindos y son súper vendidos 😍 ¿Cuál te gusta más?"
+"Te muestro el top 10 de los productos m´sa vendidos ¿Cuál te gusta más?"
